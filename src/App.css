@@ -1,0 +1,38 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+}
+.home{
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.navlink{
+  text-decoration: none;
+}
+.cartPage{
+  min-height: 70vh;
+}
+.cart{
+  float: right;
+  top:0px;
+  margin-right: 30px;
+  margin-top: -20px;
+}
+.red{
+  color: red;
+}
+.right{
+  float:right
+}
+.justify-contenet-center{
+  justify-content: center;
+}
+.justify-contenet{
+  justify-content: space-between;
+}
+
+.font-size{
+  font-size: 12px;
+}
